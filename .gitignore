@@ -1,0 +1,1 @@
+echo # Lo?i b? c c t?p log  *.log  # Lo?i b? c c thu m?c node_modules (n?u b?n l…m vi?c v?i Node.js)  node_modules/  # Lo?i b? c c t?p t?m th?i c?a editor  *.swp  *~ 
